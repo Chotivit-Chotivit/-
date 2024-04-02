@@ -11,6 +11,9 @@
 
 ![Screenshot 2024-03-21 163750](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/784bca20-6b19-4bd2-97e6-55df85b1873f)
 
+![image](https://github.com/Chotivit-Chotivit/Tax-calculation/assets/91452285/92a0ae5d-54b0-429d-a2e1-f65367883265)
+
+
 โดยมีตารางด้านบนเป็นตัวนำเข้ามาเเทนในตัวเเปรเเต่ละตัวเพื่อคำนวณหาภาษีที่ต้องชำระ
 
 โดยมีสิ่งที่ต้องกรอก3อันเพื่อคำนวณหาภาษีที่ต้องชำระ
@@ -28,7 +31,7 @@
 
 ![image](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/8290040c-b365-4d25-94c8-d65ed72ef325)
 
-ผลลัพธ์ที่ต้องได้ตามที่กรอกตัวเลขตามด้านบน
+ผลลัพธ์ที่ต้องได้ตามที่กรอกตามตัวเลขตามด้านบน(รายได้ทั้งปี:1000000 ค่าใช้จ่ายส่วนตัว:100000 ค่าลดหย่อน:60000)
 
 ![image](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/b2b4cfe3-fbe4-4b5b-b8d1-731498bf7640)
 
