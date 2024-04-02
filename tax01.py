@@ -102,7 +102,7 @@ elif netincome >= 5000001:
     print("อัตราภาษีอยู่ที่ 35%")
     tax = 0.35
     Maxtax = 1265000
-    incomebefore = int(input("เงินได้สุทธิที่มากที่สุดของลำดับขั้นก่อนหน้า\nเนื่องจากไม่มีเพดานรายได้ ท่านต้องคำนวณเอง:) :"))
+    incomebefore = 5000000
 
 print("---------------------------------------------\n")
 Taxpayable = ((netincome-incomebefore)*tax)+Maxtax 
