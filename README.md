@@ -49,7 +49,8 @@
 
 ก็จะได้ไฟล์excelที่ชื่อcatตามที่เราได้กรองไว้
 
-![image](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/2f21dc1f-5a61-4351-a25b-44c05e25145e)
+![image](https://github.com/Chotivit-Chotivit/Tax-calculation/assets/91452285/dac0c655-f2b4-4c5d-9da5-9c5738192a74)
+
 
 ![image](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/f365f99b-09aa-47a8-b587-335f718056b7)
 
