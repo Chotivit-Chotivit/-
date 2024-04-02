@@ -1,5 +1,8 @@
 ## คำนวณภาษีเงินได้บุคคลธรรมดาโดยใช้python
 
+![image](https://github.com/Chotivit-Chotivit/Tax-calculation/assets/91452285/e9eb7de8-12e7-4e39-94a7-963f084e0ec8)
+
+
 
 โดยโปรเเกรมนี้สามารถที่จะคำนวณเงินได้สุทธิ คำนวณหาอัตราภาษีของคุณโดยที่ไม่ต้องนั่งคำนวณเองเเละสามารถบอกถึงภาษีที่ต้องชำระทั้งหมดได้
 เป็นprojectที่เกิดจากความสนใจในด้านการคำนวณเกี่ยวกับภาษีโดยได้ใช้สูตรการคำนวณหาภาษีที่ต้องชำระ 
@@ -50,7 +53,9 @@
 
 ![image](https://github.com/Chotivit-Chotivit/Program-tax-Computation/assets/91452285/f365f99b-09aa-47a8-b587-335f718056b7)
 
-4/1/2024 by chotivit busamongkol
+
+
+1/4/2024 by chotivit busamongkol
 
 
 
